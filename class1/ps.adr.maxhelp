@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1234.0, 370.0, 871.0, 659.0 ],
+		"rect" : [ 301.0, 140.0, 871.0, 659.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -417,7 +417,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 142.0, 507.0, 29.5, 22.0 ],
+					"patching_rect" : [ 142.0, 489.0, 29.5, 22.0 ],
 					"text" : "*~"
 				}
 
@@ -428,7 +428,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 0,
-					"patching_rect" : [ 142.0, 585.0, 35.0, 22.0 ],
+					"patching_rect" : [ 142.0, 604.0, 35.0, 22.0 ],
 					"text" : "dac~"
 				}
 
