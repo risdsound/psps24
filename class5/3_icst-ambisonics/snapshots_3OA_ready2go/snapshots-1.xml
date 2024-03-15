@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><ambiscore>
+	<snapshot index="1">
+		<point>
+			<number>1</number>
+			<xyz>0.707107 0.707107 0.000000</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>1.000000 0.000000 0.000000</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>0.707107 -0.707107 0.000000</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>-0.000000 -1.000000 0.000000</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>-0.707107 -0.707107 0.000000</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>-1.000000 0.000000 0.000000</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>-0.707107 0.707107 0.000000</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>0.079779 0.983111 0.000000</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="2">
+		<point>
+			<number>1</number>
+			<xyz>0.713248 -0.410658 0.000000</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.658222 0.159681 0.000000</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>-0.005315 0.699311 0.000000</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>-0.436051 0.590665 0.000000</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>-0.185074 -0.307905 0.000000</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>0.541532 -0.030708 0.000000</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>0.220269 -0.478215 0.000000</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>-0.313281 -0.613696 0.000000</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="3">
+		<point>
+			<number>1</number>
+			<xyz>0.418453 -0.410658 0.933518</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.953017 0.159681 0.933518</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>-0.300110 0.699311 0.933518</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>-0.730846 0.590665 0.933518</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>-0.479869 -0.307905 0.933518</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>0.246737 -0.030708 0.933518</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>-0.074526 -0.478215 0.933518</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>-0.608076 -0.613696 0.933518</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="4">
+		<point>
+			<number>1</number>
+			<xyz>-0.036022 -0.410658 0.178105</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>0.287579 0.159681 0.049133</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>0.811513 0.699311 0.227238</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>-0.122831 0.590665 0.393060</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>-0.866787 -0.307905 0.233379</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>-0.742054 -0.030708 0.110548</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>-0.461444 -0.478215 0.141256</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>0.718501 -0.613696 0.865960</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="5">
+		<point>
+			<number>1</number>
+			<xyz>0.614983 -0.410658 0.380777</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.473975 0.159681 0.282512</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>-0.060589 0.699311 0.368494</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>-0.036849 0.590665 0.061416</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>-0.006969 -0.307905 0.749271</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>0.363427 -0.030708 0.393060</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>-0.019252 -0.478215 0.558882</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>-0.049194 -0.613696 0.196530</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="6">
+		<point>
+			<number>1</number>
+			<xyz>0.682541 -0.146570 0.380777</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.087057 -0.006142 0.994933</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>0.013110 -0.829938 0.368494</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>0.036849 -0.938584 0.061416</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>-0.934345 -0.473727 0.380777</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>-0.109473 -0.196530 0.393060</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>-0.946628 -0.644037 0.190388</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>0.405282 -0.589129 0.196530</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="7">
+		<point>
+			<number>1</number>
+			<xyz>-0.502781 -0.828284 0.079840</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.719638 -0.687855 0.350069</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>-0.189561 -0.829938 0.024566</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>0.036849 -0.938584 0.061416</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>0.588763 -0.473727 0.178105</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>-0.336711 -0.878244 0.049133</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>0.422941 -0.644037 0.079840</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>0.270167 -0.589129 0.042991</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="8">
+		<point>
+			<number>1</number>
+			<xyz>-0.508923 0.578134 0.079840</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.725779 0.718563 0.350069</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>-0.195703 0.576480 0.024566</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>0.030708 0.467834 0.061416</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>0.582621 0.932691 0.178105</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>-0.342853 0.528174 0.049133</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>0.416799 0.762381 0.079840</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>0.264026 0.817288 0.042991</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="9">
+		<point>
+			<number>1</number>
+			<xyz>0.105234 0.307905 0.079840</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.793336 -0.749271 0.350069</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>-0.195703 0.576480 0.024566</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>-0.368494 -0.785045 0.061416</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>0.914266 -0.725531 0.178105</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>0.338861 0.454476 0.049133</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>-0.780806 0.203499 0.079840</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>0.374574 -0.804084 0.042991</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="10">
+		<point>
+			<number>1</number>
+			<xyz>-0.410658 0.283339 0.079840</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.510825 -0.092123 0.110548</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>-0.422941 0.109721 0.024566</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>0.368494 0.173039 0.061416</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>0.367667 -0.185074 0.178105</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>0.375710 0.307078 0.049133</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>-0.436878 -0.263260 0.079840</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>0.380715 0.037310 0.042991</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="11">
+		<point>
+			<number>1</number>
+			<xyz>-0.871275 0.283339 0.079840</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.971442 -0.092123 0.110548</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>-0.883558 0.109721 0.024566</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>0.902810 0.173039 0.036849</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>0.901983 -0.185074 0.153539</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>0.910026 0.307078 0.024566</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>-0.897495 -0.263260 0.079840</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>0.915031 0.037310 0.018425</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="12">
+		<point>
+			<number>1</number>
+			<xyz>-0.017598 0.872929 0.079840</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>0.201597 0.792262 0.110548</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>-0.029881 0.699311 0.024566</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>0.202672 -0.852602 0.036849</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>-0.129800 -0.909778 0.153539</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>-0.281437 -0.835253 0.024566</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>-0.240348 0.817655 0.079840</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>0.006080 -0.828650 0.018425</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="13">
+		<point>
+			<number>1</number>
+			<xyz>-0.017598 0.872929 1.166897</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>0.201597 0.792262 1.197605</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>-0.029881 0.699311 1.111623</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>0.202672 -0.852602 1.123906</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>-0.129800 -0.909778 1.240596</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>-0.281437 -0.835253 1.111623</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>-0.240348 0.817655 1.166897</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>0.006080 -0.828650 1.105481</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="14">
+		<point>
+			<number>1</number>
+			<xyz>0.842221 0.872929 0.374635</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.953017 0.792262 0.092123</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>-0.515064 0.699311 0.307078</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>-0.503608 0.093198 0.829111</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>0.140429 -0.332471 0.841394</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>-0.391985 -0.835253 0.841394</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>0.908124 0.817655 0.687855</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>0.030646 -0.828650 0.638723</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="15">
+		<point>
+			<number>1</number>
+			<xyz>-0.079013 0.872929 0.178105</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.265162 0.792262 0.386918</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>-0.355384 0.699311 0.638723</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>-0.503608 0.093198 0.829111</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>-0.166649 -0.332471 0.257946</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>-0.447259 -0.835253 0.718563</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>-0.049960 0.817655 0.073699</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>-0.337847 -0.828650 0.515891</xyz>
+		</point>
+	</snapshot>
+	<snapshot index="16">
+		<point>
+			<number>1</number>
+			<xyz>-0.011456 -0.938832 0.178105</xyz>
+		</point>
+		<point>
+			<number>2</number>
+			<xyz>-0.025641 -0.767695 0.386918</xyz>
+		</point>
+		<point>
+			<number>3</number>
+			<xyz>-0.048305 -0.676399 0.638723</xyz>
+		</point>
+		<point>
+			<number>4</number>
+			<xyz>-0.030708 -0.594657 0.829111</xyz>
+		</point>
+		<point>
+			<number>5</number>
+			<xyz>-0.013110 -0.357038 0.257946</xyz>
+		</point>
+		<point>
+			<number>6</number>
+			<xyz>-0.029633 -0.466759 0.718563</xyz>
+		</point>
+		<point>
+			<number>7</number>
+			<xyz>0.005315 -0.877416 0.073699</xyz>
+		</point>
+		<point>
+			<number>8</number>
+			<xyz>-0.043052 -0.361892 0.509750</xyz>
+		</point>
+	</snapshot>
+</ambiscore>
