@@ -1,0 +1,49 @@
+{
+	"numins" : 4,
+	"numouts" : 2,
+	"gain" : 1.0,
+	"exclusive" : 0,
+	"offset" : 0,
+	"ramptime" : 300,
+	"connections" : [ 		{
+			"in" : 0,
+			"out" : 0,
+			"gain" : 0.225
+		}
+, 		{
+			"in" : 0,
+			"out" : 1,
+			"gain" : 0.525
+		}
+, 		{
+			"in" : 1,
+			"out" : 0,
+			"gain" : 0.175
+		}
+, 		{
+			"in" : 1,
+			"out" : 1,
+			"gain" : 0.675
+		}
+, 		{
+			"in" : 2,
+			"out" : 0,
+			"gain" : 0.5
+		}
+, 		{
+			"in" : 2,
+			"out" : 1,
+			"gain" : 0.15
+		}
+, 		{
+			"in" : 3,
+			"out" : 0,
+			"gain" : 0.4
+		}
+, 		{
+			"in" : 3,
+			"out" : 1,
+			"gain" : 0.125
+		}
+ ]
+}
