@@ -1,0 +1,18 @@
+0 param1 1;
+10 param2 2;
+20 param3 3;
+30 param4 4;
+1100 param1 2;
+1200 param2 3;
+1300 param3 4;
+1400 param4 1;
+2100 param1 3;
+2200 param2 4;
+2300 param3 1;
+2400 param4 2;
+3100 param1 4;
+3200 param2 1;
+3300 param3 2;
+3400 param4 3;
+
+
