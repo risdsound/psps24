@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 134.0, 100.0, 1151.0, 908.0 ],
+		"rect" : [ 154.0, 100.0, 1324.0, 848.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -164,7 +164,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 880.0, 527.0, 35.0, 22.0 ],
+					"patching_rect" : [ 334.0, 468.0, 35.0, 22.0 ],
 					"text" : "clear"
 				}
 
@@ -704,7 +704,7 @@
 					"numinlets" : 5,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 859.0, 496.0, 101.0, 22.0 ],
+					"patching_rect" : [ 313.0, 437.0, 101.0, 22.0 ],
 					"text" : "pak aed 1 0. 0. 1."
 				}
 
@@ -717,7 +717,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
-					"patching_rect" : [ 859.0, 558.0, 200.0, 300.0 ]
+					"patching_rect" : [ 313.0, 499.0, 200.0, 300.0 ]
 				}
 
 			}
